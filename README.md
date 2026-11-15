@@ -18,9 +18,9 @@ Site vitrine du studio, publié gratuitement avec GitHub Pages. Il sert à :
 
 Pour un nouveau jeu : un dossier à son nom, avec sa propre politique de confidentialité, et une carte de plus sur l'accueil.
 
-## Avant la mise en ligne
+## Informations à compléter
 
-Les informations encore à compléter sont surlignées en jaune sur les pages (`<mark class="todo">`).
-Une fois remplies, il ne doit plus rester aucun `class="todo"` dans les fichiers.
+Une information qui manque encore se surligne en jaune avec `<mark class="todo">`.
+Avant chaque mise en ligne, il ne doit rester aucun `class="todo"` dans les fichiers.
 
 Le site n'utilise aucun cookie, aucune mesure d'audience, aucune police ni aucun script externe : pas de bandeau cookies nécessaire.
