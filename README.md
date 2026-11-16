@@ -4,7 +4,7 @@ Site vitrine du studio, publié gratuitement avec GitHub Pages. Il sert à :
 - valider le site web de l'organisation dans la Google Play Console (via Google Search Console) ;
 - héberger la politique de confidentialité de chaque jeu (lien demandé par Google Play et AdMob) ;
 - afficher les mentions légales (obligatoires en France pour un site professionnel) ;
-- plus tard, héberger le fichier `app-ads.txt` d'AdMob, à la racine du site.
+- héberger le fichier `app-ads.txt` d'AdMob, à la racine du site (AdMob le cherche sur le site déclaré dans la fiche Play Store).
 
 ## Pages
 
